@@ -1,7 +1,7 @@
 {
   "name": "dbot",
-  "version": "1.0.0",
-  "description": "",
+  "version": "16.0.0",
+  "description": "yo",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "shokker",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^0.9.0",
@@ -18,5 +18,14 @@
     "discord-api-types": "^0.25.2",
     "discord.js": "^13.3.1",
     "node-cron": "^3.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcheiko/bot_heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rcheiko/bot_heroku/issues"
+  },
+  "homepage": "https://github.com/rcheiko/bot_heroku#readme"
 }
